@@ -1,0 +1,2 @@
+import Schematic.Math.GraphTheory.Embedding.KuratowskiRotation.DegreeTwoSubdivision.Adjacent
+import Schematic.Math.GraphTheory.Embedding.KuratowskiRotation.DegreeTwoSubdivision.NonAdjacent
