@@ -12,8 +12,8 @@ Under the `Schematic.Math` namespace:
 
 Also formalized by Schematic Hydra:
 
-- [`FourColorTheorem`](https://github.com/schematic-rs/formalized-fct): the Four Color Theorem (FCT).
-- [`DominatingFourColour`](https://github.com/schematic-rs/formalized-2605.10112): a significant strengthening of the FCT proved by António Girão, Freddie Illingworth, Bojan Mohar, Sergey Norin, Raphael Steiner, Youri Tamitegama, Jane Tan, David R. Wood, and Jung Hon Yip ([arXiv:2605.10112](https://arxiv.org/abs/2605.10112)).
+- [`FourColorTheorem`](https://github.com/schematic-tech/formalized-fct): the Four Color Theorem (FCT).
+- [`DominatingFourColour`](https://github.com/schematic-tech/formalized-2605.10112): a significant strengthening of the FCT proved by António Girão, Freddie Illingworth, Bojan Mohar, Sergey Norin, Raphael Steiner, Youri Tamitegama, Jane Tan, David R. Wood, and Jung Hon Yip ([arXiv:2605.10112](https://arxiv.org/abs/2605.10112)).
 
 ## Build
 
